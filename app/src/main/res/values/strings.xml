@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PeopleApp</string>
+    <string name="start">Start</string>
+    <string name="please_input_your_username">Please input your username</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="Ω">Please enter your age</string>
+    <string name="please_enter_your_address">Please enter your address</string>
+    <string name="please_enter_your_city">Please Enter your city</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="city">city</string>
+    <string name="finish">Finish</string>
+    <string name="map">Map</string>
+</resources>
