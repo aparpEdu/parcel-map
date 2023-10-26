@@ -26,7 +26,7 @@ public class PeopleActivity extends BaseActivity {
 
         Button finish = findViewById(R.id.button4);
         Button map = findViewById(R.id.button5);
-        map.setOnClickListener(view -> showAddress(person.getAddress()));
+        map.setOnClickListener(view -> showAddress(person.getCity()+ " " + person.getAddress()));
         finish.setOnClickListener(view -> finishAndRemoveTask());
     }
 
